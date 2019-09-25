@@ -20,7 +20,8 @@ O problema sugerido envolve utilizar algum algoritmo PSO para minimizar a funç�
 ![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/egg2.png?raw=true "funcao egg")<br>
 
 
-# Implementação 
+# Implementação
+Para a implementação do algoritmo de otimização, foi utilizada a linguagem de programação Python, essa que vem ganhando bastante popularidade na área de de Inteligência Artificial, por ser uma linguagem de fácil aprendizado e com alto nível de produtividade.
 
 ### Trechos mais Importantes
 
