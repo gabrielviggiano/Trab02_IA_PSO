@@ -16,7 +16,7 @@ O PSO aprendeu com o cenário e o usou para resolver os problemas de otimizaçã
 O PSO é inicializado com um grupo de partículas aleatórias (soluções) e, em seguida, procura por ótimos, atualizando gerações. Em cada iteração, cada partícula é atualizada seguindo dois "melhores" valores. A primeira é a melhor solução (fitness) alcançada até o momento. (O valor de condicionamento físico também é armazenado.) Esse valor é chamado de pbest.
 
 # Problema Proposto
-O problema sugerido envolve utilizar algum algoritmo PSO para minimizar a função <i> Eggholder Function </i> descrita pela equação:
+O problema sugerido envolve utilizar algum algoritmo PSO para minimizar a função <i><b> Eggholder Function </b></i> descrita pela equação:
 ![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/egg2.png?raw=true "funcao egg")<br>
 
 
@@ -26,7 +26,7 @@ O problema sugerido envolve utilizar algum algoritmo PSO para minimizar a funç�
 
 # Resultados e Análise
 
-# Bibliografica
+# Bibliografia
 
 http://www.swarmintelligence.org/tutorials.php
 
