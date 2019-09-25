@@ -17,7 +17,7 @@ O PSO é inicializado com um grupo de partículas aleatórias (soluções) e, em
 
 # Problema Proposto
 O problema sugerido envolve utilizar algum algoritmo PSO para minimizar a função <i><b> Eggholder Function </b></i> descrita pela equação:<br>
-<center> ![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/egg2.png?raw=true "funcao egg")<br> </center>
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/egg2.png?raw=true "funcao egg")<br>
 
 
 # Implementação 
