@@ -24,8 +24,31 @@ O problema sugerido envolve utilizar algum algoritmo PSO para minimizar a funç�
 Para a implementação do algoritmo de otimização, foi utilizada a linguagem de programação Python, essa que vem ganhando bastante popularidade na área de de Inteligência Artificial, por ser uma linguagem de fácil aprendizado e com alto nível de produtividade.
 
 ### Trechos mais Importantes
+1. Função que cria as particulas, a partir do número recebido pelo usuário. E assim, é gerado uma lista com a quantidade de particulas. Vale ressaltar que os valores de posição das particulas são geradas randomicamente dentro do escopo do domínio pré estipulado.
+
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/criaparticulas.png?raw=true "criaParticulas")<br>
+
+2. Função que calcula a Fitness (eggholder function)
+
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/calculoEGG.png?raw=true "calculoEGG")<br>
+
+3. Função que atualiza as velocidades X1 e X2, de acordo com a fórmula passada na especificação do trabalho.
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/atualizarVelocidade.png?raw=true "attVEL")<br>
+
+4. Função getGbests: Com o numero de iterações definido pelo usuário, é gerado uma lista de partículas, se é utilizado a função eggholder em cada partícula para atualizar sua aptidão e seu pbest e mapeando o melhor de todos. Além disso, ela retorna uma lista de Gbests a partir de uma lista de pbests anteriormente gerada.
+
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/getGBEST.png?raw=true "getGbest")<br>
+
+5. Funções de atualizações: Posição, Aptidão e Pbest
+
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/atualizacoes.png?raw=true "getGbest")<br>
 
 # Resultados e Análise
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/Figure_1.png?raw=true "1")<br>
+
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/Figure_2.png?raw=true "2")<br>
+
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/Figure_3.png?raw=true "3")<br>
 
 # Bibliografia
 
