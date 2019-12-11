@@ -48,7 +48,7 @@ Para a implementação do algoritmo de otimização, foi utilizada a linguagem d
 
 ![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/Figure_2.png?raw=true "2")<br>
 
-![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/Figure_3.png?raw=true "3")<br>
+![Alt text](https://github.com/gabrielviggiano/Trab02_IA_PSO/blob/master/Figure_12.png?raw=true "3")<br>
 
 # Bibliografia
 
